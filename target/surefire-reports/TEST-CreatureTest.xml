@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="32" failures="0" name="CreatureTest" time="0.016" errors="0" skipped="0">
+  <properties>
+    <property name="idea.version" value="2018.2.3"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="java.vm.version" value="10.0.2+13"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-10.0.2\bin"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\JYF\IdeaProjects\javafinal"/>
+    <property name="java.vm.vendor" value="&quot;Oracle Corporation&quot;"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\JYF\IdeaProjects\javafinal"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="java.runtime.version" value="10.0.2+13"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\JYF\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="D:\Maven\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-10.0.2\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\WINDOWS\system32\config\systemprofile\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Java\jdk-10.0.2\bin;C:\Program Files\Java\jdk-10.0.2\jre\bin;C:\Program Files\Git\cmd;D:\Matlab\R2016a\runtime\win64;D:\Matlab\R2016a\bin;D:\Matlab\R2016a\polyspace\bin;C:\Program Files\Microsoft VS Code\bin;C:\Users\JYF\AppData\Local\Microsoft\WindowsApps;C:\texlive\2018\bin\win32;C:\Users\JYF\AppData\Local\GitHubDesktop\bin;E:\anaconda;E:\anaconda\Scripts;E:\QT\Tools\mingw530_32\bin;E:\QT\5.10.1\mingw53_32\bin;E:\QT\5.10.1\msvc2015_64\bin;D:\Maven\bin;;."/>
+    <property name="maven.conf" value="D:\Maven/conf"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="54.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\JYF"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="10"/>
+    <property name="user.name" value="JYF"/>
+    <property name="java.class.path" value="D:\Maven\boot\plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="10"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version=2018.2.3 -s D:\Maven\conf\settings.xml package"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-10.0.2"/>
+    <property name="user.language" value="zh"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="10.0.2"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="D:\Maven"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.version.date" value="2018-07-17"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.java.com/bugreport/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="java.vendor.version" value="18.3"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="CreatureTest" name="testIsOpposite" time="0.016"/>
+  <testcase classname="CreatureTest" name="testGetField" time="0"/>
+  <testcase classname="CreatureTest" name="testGetImage" time="0"/>
+  <testcase classname="CreatureTest" name="testRun" time="0"/>
+  <testcase classname="CreatureTest" name="testShoot" time="0"/>
+  <testcase classname="CreatureTest" name="testDead" time="0"/>
+  <testcase classname="CreatureTest" name="testHurt" time="0"/>
+  <testcase classname="CreatureTest" name="testMove" time="0"/>
+  <testcase classname="CreatureTest" name="testGetShootTurn" time="0"/>
+  <testcase classname="CreatureTest" name="testSetLocation" time="0"/>
+  <testcase classname="CreatureTest" name="testGetLocation" time="0"/>
+  <testcase classname="CreatureTest" name="testGetType" time="0"/>
+  <testcase classname="CreatureTest" name="testGetMaxHealth" time="0"/>
+  <testcase classname="CreatureTest" name="testSetShootAttack" time="0"/>
+  <testcase classname="CreatureTest" name="testAttacking" time="0"/>
+  <testcase classname="CreatureTest" name="testSetShootTurn" time="0"/>
+  <testcase classname="CreatureTest" name="testSetAttack" time="0"/>
+  <testcase classname="CreatureTest" name="testSetHealth" time="0"/>
+  <testcase classname="CreatureTest" name="testGetAttack" time="0"/>
+  <testcase classname="CreatureTest" name="testGetHealth" time="0"/>
+  <testcase classname="CreatureTest" name="testSetMoveTurn" time="0"/>
+  <testcase classname="CreatureTest" name="testGetMoveTurn" time="0"/>
+  <testcase classname="CreatureTest" name="testMoveTo" time="0"/>
+  <testcase classname="CreatureTest" name="testSetType" time="0"/>
+  <testcase classname="CreatureTest" name="testIsAlive" time="0"/>
+  <testcase classname="CreatureTest" name="testIsEnemy" time="0"/>
+  <testcase classname="CreatureTest" name="testSurrounding" time="0"/>
+  <testcase classname="CreatureTest" name="testGetShootAttack" time="0"/>
+  <testcase classname="CreatureTest" name="testSetAlive" time="0"/>
+  <testcase classname="CreatureTest" name="testSetEnemy" time="0"/>
+  <testcase classname="CreatureTest" name="testSetField" time="0"/>
+  <testcase classname="CreatureTest" name="testSetImage" time="0"/>
+</testsuite>
