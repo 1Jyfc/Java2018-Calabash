@@ -1,7 +1,7 @@
 # JAVA大作业——葫芦娃VS蝎子精
 ## 游戏简介
 ### 背景介绍
-![](src/res/image/calabash.jpg)
+![](src/main/resources/image/calabash.jpg)
 
 《葫芦娃VS蝎子精》是基于一部中国原创的优秀动漫《葫芦娃》的世界观制作的。七个葫芦娃和老爷爷，跟蝎子精和蛇精斗智斗勇，并且最终为了保护老爷爷，七个葫芦娃与妖精同归于尽，将其封印。这部动漫确实是包括我在内的很多人的童年回忆。
 
@@ -37,20 +37,20 @@ X：退出窗口。
 ## 游戏效果图
 开始界面如下，可以在左上角下拉框中选择功能。目前实现的功能有选择阵型开始游戏、以随机阵型开始游戏、载入上一场对战、读取文件中的对战、保存对战。
 
-![](src/res/image/startgame.png)
+![](src/main/resources/image/startgame.png)
 
 点击选择阵型会弹出阵型的选择框，在此不作截图说明。点击随机开始或者按下空格键，以随机阵型开始战斗，以下是战斗过程的GIF演示。
 
-![](src/res/image/battletime.gif)
+![](src/main/resources/image/battletime.gif)
 
 经过漫长的战斗葫芦娃们总算打败了蝎子精赢得了战斗，此时战场上尸横遍野，你可以选择重新开始对战或者读取之前的对战，也可以将这次战斗保存到一个TXT文件中。
 
-![](src/res/image/endbattle.jpg)
+![](src/main/resources/image/endbattle.jpg)
 
 ## 设计过程
 在战斗中出现的所有“东西”都有一个类对其进行包装。在本项目中的类图如下图所示：
 
-![](src/res/image/classdiagram.png)
+![](src/main/resources/image/classdiagram.png)
 
 下面将对这些类及其形成的相应系统进行阐述。
 
