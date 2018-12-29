@@ -1,5 +1,8 @@
 # JAVA大作业——葫芦娃VS蝎子精
 ## 游戏简介
+游戏启动方法：maven clean test package，然后执行java -jar [文件路径]执行jar文件。  
+游戏记录存储在src/main/resources/record中，胜、负均有一次记录，可通过“读取文件”进行读取。相对而言"win.txt"里面的战斗更加简短且精彩。
+
 ### 背景介绍
 ![](src/main/resources/image/calabash.jpg)
 
